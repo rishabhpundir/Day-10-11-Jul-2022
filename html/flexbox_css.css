@@ -1,0 +1,20 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap");
+*{
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    font-weight: bold;
+}
+
+.flexcontainer{
+    display: flex;
+    background-color: aqua;
+}
+
+.flexcontainer div{
+    display: flex;
+    background-color: white;
+    margin: 20px;
+    padding: 10px;
+    border: 10px;
+    font-size: 42;
+}
